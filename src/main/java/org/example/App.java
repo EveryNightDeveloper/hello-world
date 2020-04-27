@@ -2,10 +2,6 @@ package org.example;
 
 import java.io.IOException;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args ) throws IOException {
@@ -13,6 +9,5 @@ public class App
         myFileReader.reader();
         MyFileWriter myFileWriter =  new MyFileWriter();
         myFileWriter.writeFile(myFileReader.reader());
-        System.out.println( "Hello World!" );
     }
 }

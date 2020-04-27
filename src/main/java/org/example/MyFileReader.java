@@ -25,7 +25,6 @@ public class MyFileReader {
         while (result < list1.size()) {
             for (int i = 0; i < list1.size(); i++) {
                 result = prev + next;
-                System.out.println(list);
                 if (result < list1.size()) {
                     list.add(list1.get(result - 1));
                 } else break;
