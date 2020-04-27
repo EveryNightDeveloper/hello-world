@@ -13,7 +13,6 @@ public class MyFileReader {
         while (line != null) {
             list.add(line);
             line = br.readLine();
-            //hreloo
         }
         br.close();
         return read(list);
