@@ -1,0 +1,22 @@
+1.  Together, we are facing a truly unprecedented situation.
+2.  The global coronavirus pandemic is affecting all of our families, our businesses, our communities, and our way of life.
+3.  During this time, I wanted to reach out and update you on how we’re approaching the situation at Salesforce.
+4.  First and foremost, our hearts go out to anyone who’s been impacted by the virus, either directly or indirectly.
+5.  Our thoughts are especially with those who are sick, to whom we extend our heartfelt wishes for a full recovery.
+6.  And we’re truly inspired by the selfless healthcare workers around the world who are on the front lines working tirelessly to care for people in need.
+7.  Second, at Salesforce as at your companies, we’re focused on the health and safety of our employees, families and communities.
+8.  All of our employees around the world have been strongly encouraged to work from home.
+9.  With our highly-distributed workforce and many of our employees typically working remotely, this shift has been relatively smooth and we continue to deliver the highest levels of performance, availability, and security.
+10. During this time, we will continue to pay our vendor hourly service providers, who are an important part of our family.
+11. We’re also asking our teams to work with customers through digital channels as much as possible.
+12. We’re postponing some of our in-person events while turning others into virtual events, as we did with World Tour Sydney, with more than 80,000 customers attending digitally, and our second annual Trailblazing Women Summit, which attracted 1.2 million unique online viewers.
+13  Third, even as we deal with this pandemic, our 50,000-person team at Salesforce remains laser-focused on your success. While all our businesses are in uncharted territory, Salesforce was built to handle moments like this, and our relentless commitment to your success is stronger than ever. Our company was founded on core values — trust, customer success, innovation, and equality — and our values are unwavering and continue to guide everything we do.
+14. During this time, we are supporting our communities across the globe through philanthropic donations to support our local communities where we live and work. We’re also making some of our technology available for our customers, partners and communities.
+15. Through Health Cloud, Salesforce is offering free access for qualified emergency response teams, call centers and care management teams for health systems affected by coronavirus. Tableau, which we acquired last year, has developed a free data resource hub to help organizations see and understand coronavirus data in near real-time, using case data compiled by Johns Hopkins University as well as data from the World Health Organization and the Centers for Disease Control and Prevention.
+16. To help teams collaborate while employees are away from the office, Quip Starter will be available for free to any Salesforce customer or non-profit organization through September 30, 2020. Finally, our team has created a publicly-available Trailmix on Trailhead with tips on how to work from home and maintain personal well-being during this time.
+17. If you are aware of other opportunities for us to help others with our technology, please let me know at ceo@salesforce.com.
+18. We have amazing teams across Salesforce that are here for you. This moment reminds us that we’re all connected like never before. We’re called upon to be our best selves, with patience, understanding and compassion. On behalf of all of us at Salesforce, we’re committed to being your partner and persevering together in all the days and years ahead.
+19. As we go forward, we’ll be sure to keep you updated, and know that we always value your questions, ideas and feedback.
+20. Sincerely,
+21. Marc Benioff
+22. Chair and CEO, Salesforce

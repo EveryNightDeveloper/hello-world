@@ -11,17 +11,16 @@ import java.util.stream.Stream;
 
 public class MyFileReader {
     public List<String> reader() throws IOException {
-        Path path = Paths.get("src/main/resources/Doc.txt");
+        Path path = Paths.get("src/main/resources/source.txt");
         List<String> list;
+        //Firstly - collect lines from source.txt and put in List
         try (Stream<String> lineStream = Files.newBufferedReader(path).lines()) {
             list = lineStream.collect(Collectors.toList());
         }
-        System.out.println(list);
         return read(list);
-
     }
 
-
+    //Method for new List. Collect only Fibbonachi-index lines in new List
     public List<String> read(List<String> list1) {
         ArrayList<String> list = new ArrayList<>();
         Stream.iterate(new int[]{1, 1}, t -> new int[]{t[1], t[0]+ t[1]})
