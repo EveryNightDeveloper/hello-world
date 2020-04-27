@@ -6,7 +6,7 @@ import java.util.List;
 
 public class MyFileReader {
     public List<String> reader() throws IOException {
-        File file = new File("src/main/resources/Doc.txt");
+        File file = new File("src/main/resources/source.txt");
         ArrayList<String> list = new ArrayList<>();
         BufferedReader br = new BufferedReader(new FileReader(file));
         String line = br.readLine();
