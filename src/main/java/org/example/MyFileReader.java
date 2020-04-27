@@ -25,7 +25,7 @@ public class MyFileReader {
         ArrayList<String> list = new ArrayList<>();
         Stream.iterate(new int[]{1, 1}, t -> new int[]{t[1], t[0]+ t[1]})
                 .skip(1)
-                .limit(10)
+                .limit(list1.size())
                 .map(t -> t[0])
                 .filter(x -> x < list1.size())
                 .forEach(x -> list.add(list1.get(x-1)));
