@@ -11,10 +11,8 @@ public class MyFileWriter {
         BufferedWriter writer = new BufferedWriter(new FileWriter(new File("src/main/resources/output.txt")));
 
         //Here cycle to reverse and write list to "output.txt"
-        long limit = list.size();
-        for (int i = list.size() - 1; ; i = i - 1) {
-            if (limit-- == 0) break;
-            writer.write(list.get(i) + "\n");
+        for (int i = 0; i <list.size() ; i++) {
+            writer.write(new StringBuffer(list.get(i) + "\n").reverse().toString());
         }
         writer.flush();
     }
