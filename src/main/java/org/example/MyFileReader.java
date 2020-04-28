@@ -20,11 +20,10 @@ public class MyFileReader {
         return read(list);
     }
 
-    //Method for new List. Collect only Fibbonachi-index lines in new List
+    //Method for new List. Collect only Fibonacci-index lines in new List
     public List<String> read(List<String> list1) {
         ArrayList<String> list = new ArrayList<>();
-        Stream.iterate(new int[]{1, 1}, t -> new int[]{t[1], t[0]+ t[1]})
-                .skip(1)
+        Stream.iterate(new int[]{1, 2}, t -> new int[]{t[1], t[0]+ t[1]})
                 .limit(list1.size())
                 .map(t -> t[0])
                 .filter(x -> x < list1.size())
